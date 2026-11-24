@@ -12,3 +12,6 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://Samurai2306.github.io/devops-docs/`.
+
+
+See also [missing](missing-page.md).
